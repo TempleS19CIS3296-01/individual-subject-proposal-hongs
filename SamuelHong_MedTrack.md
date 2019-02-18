@@ -24,7 +24,7 @@ MedTrack will be developed as an open-source original project. I am proposing An
 
 ## Background
 
-This as an original project proposal. The concept for this project was solicited from a healthcare provider.
+This is an original project proposal. The concept for this project was solicited from a healthcare provider.
 
 ## Required Resources
 
