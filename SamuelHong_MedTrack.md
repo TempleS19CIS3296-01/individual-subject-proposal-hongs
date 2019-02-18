@@ -4,6 +4,8 @@
 
 MedTrack is an original project proposal. The purpose of the project will be to help patients stay compliant with their medication regimens and allow doctors to keep track of a patient's response to a medication. The project will contain two major parts: a mobile application that will be used by the patient, and a website that will be used by the doctor. When the doctor prescribes the patient a medication, he enters the medication into the website, along with the duration, timing, and frequency that it must be taken by the patient. A new medication regimen can also be initiated by the patient. The patient will then receive periodic reminders on their smartphone during the day when it is time to take the medication. When the patient interacts with the app, it will prompt the user to give any side effects along with their severity and/or health indicators (such as blood pressure) via a drop-down menu. When the patient returns to the doctor's office, the doctor can use the website to check the patient's health indicators and use the information to inform care decisions going forward.
 
+![Use Case Image](SamuelHong_MedTrack.png)
+
 ## Project Relevance
 
 This project will involve several educational goals of this course. These are some of the programming principles that will be used to develop the project:
@@ -22,7 +24,7 @@ MedTrack will be developed as an open-source original project. I am proposing An
 
 ## Background
 
-This as an original project proposal. The cencept for this project was solicited from a healthcare provider.
+This as an original project proposal. The concept for this project was solicited from a healthcare provider.
 
 ## Required Resources
 
